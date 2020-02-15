@@ -1,0 +1,30 @@
+#ifndef __AST_ALL_HPP__
+#define __AST_ALL_HPP__
+
+#include "ast/ArgumentsAST.hpp"
+#include "ast/ArrayIdentifierAST.hpp"
+#include "ast/AssignmentStmtAST.hpp"
+#include "ast/AST.hpp"
+#include "ast/BinaryOpAST.hpp"
+#include "ast/BoolLiteralAST.hpp"
+#include "ast/CallExprAST.hpp"
+#include "ast/CompoundStmtAST.hpp"
+#include "ast/DeclarationStmtAST.hpp"
+#include "ast/ExpressionAST.hpp"
+#include "ast/ExpressionStmtAST.hpp"
+#include "ast/FloatLiteralAST.hpp"
+#include "ast/FunctionAST.hpp"
+#include "ast/IdentifierAST.hpp"
+#include "ast/IfStmtAST.hpp"
+#include "ast/IntLiteralAST.hpp"
+#include "ast/LiteralAST.hpp"
+#include "ast/ParametersAST.hpp"
+#include "ast/ProgramAST.hpp"
+#include "ast/ReturnStmtAST.hpp"
+#include "ast/StmtAST.hpp"
+#include "ast/StmtListAST.hpp"
+#include "ast/StringLiteralAST.hpp"
+#include "ast/UnaryOpAST.hpp"
+#include "ast/WhileStmtAST.hpp"
+
+#endif /* END __AST_ALL_HPP__ */
